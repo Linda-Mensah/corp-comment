@@ -7,10 +7,7 @@ const Footer = () => {
           <a target="_blank" href="www.google.com">
             Linsah
           </a>
-          . Intended for learning or your portfolio.
-        </p>
-        <p className="u-bold u-italic">
-          Not allowed to use as your own teaching material.
+          . Learning Practice.
         </p>
       </small>
     </footer>
